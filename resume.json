@@ -1,1 +1,61 @@
+{
+    "information": {
+        "name": "Forrest Maynard",
+        "phone": "(281) 734-1463",
+        "email": "fwmaynard@yahoo.com"
+    },
 
+    "education": {
+        "school": "Utah Valley University",
+        "major": "Computer Science",
+        "minor": "Criminal Justice",
+        "certification": "Occupational Safety and Health Administration (OSHA)"
+    },
+
+    "experience": [
+        {
+            "position": "Self-Employed",
+            "startDate": "2013",
+            "endDate": "Present",
+            "company": "Independent Contracts",
+            "location": "Draper, Utah",
+            "duties": [
+                "Assisted with contracts pertaining to warehouse management and reconstruction", 
+                "Volunteered by helping load detergent packages to be shipped to third world countries"
+            ]
+        },
+        {
+            "position": "Logistics Coworker Outflow",
+            "startDate": "January 2016",
+            "endDate": "February 2018",
+            "company": "IKEA",
+            "location": "Draper, Utah",
+            "duties": [
+                "Completed all customer and delivery orders",
+                "Performed inventory checks daily and adjusted errors through the database",
+                "Received commercial shipments daily",
+                "Stocked an average of 400 inventory items daily",
+                "Adjusted inventory numbers to match demand for sales",
+                "Planned inventory layouts to optimize space efficiency",
+                "Attended monthly Safety Committee sessions to discuss ways to improve safety during logistic operations"
+            ] 
+        },
+        {
+            "position": "Courtesy Clerk",
+            "startDate": "October 2010",
+            "endDate": "March 2012",
+            "company": "Smith's",
+            "location": "Lehi, Utah",
+            "duties": [
+                "Gathered shopping carts, mopped and swept floors", 
+                "Conducted price checks, returned products to proper shelf location, and help maintain store",
+                "Assisted in quick and efficient checkout service of customers"
+            ]
+        }
+    ],
+
+    "skills": [
+        "C++", 
+        "Python"
+    ]
+}
