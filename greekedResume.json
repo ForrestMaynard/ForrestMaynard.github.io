@@ -1,0 +1,61 @@
+{
+    "information": {
+        "name": "Forrest Maynard",
+        "phone": "(281) 734-1463",
+        "email": "Lorem@ipsum.com"
+    },
+
+    "education": {
+        "school": "Consectetur Adipiscing Elit",
+        "major": "Praesent Bibendum",
+        "minor": "Massa Enim",
+        "certification": "Vel Rutrum sapien Ullamcorper Vitae (VRUV)"
+    },
+
+    "experience": [
+        {
+            "position": "Praesent-vitae",
+            "startDate": "2013",
+            "endDate": "Iaculis",
+            "company": "Consequat Posuere",
+            "location": "Est, Quis",
+            "duties": [
+                "Vestibulum consectetur metus eget elit finibus vehicula sed et", 
+                "Integer at nulla porta gravida eros ut finibus enim ut malesuada tellus a"
+            ]
+        },
+        {
+            "position": "Orci Varius Natoque",
+            "startDate": "Duis 2016",
+            "endDate": "Purus 2018",
+            "company": "INTERDUM",
+            "location": "Nulla, Non",
+            "duties": [
+                "Interdum et malesuada fames ac ante",
+                "Suspendisse vitae tortor pellentesque ipsum placerat lacinia suspendisse porta tellus",
+                "Fusce fermentum turpis cursus",
+                "Duis nisi elit rutrum 400 duis nisi elit",
+                "Cras vitae leo vitae enim facilisis vestibulum sed",
+                "Nam egestas urna in ipsum vulputate pulvinar",
+                "Sed vulputate ex nec libero tincidunt interdum vestibulum ante ipsum primis in faucibus orci"
+            ] 
+        },
+        {
+            "position": "Fusce Sit",
+            "startDate": "Amet 2010",
+            "endDate": "Gravida 2012",
+            "company": "Leo'",
+            "location": "Non, Ullamcorper",
+            "duties": [
+                "Etiam non vestibulum, nulla vivamus convallis nisl", 
+                "Maecenas posuere lectus, phasellus accumsan sem non justo tristique, sed eu nunc dui",
+                "Morbi non ullamcorper eros id sagittis nisi lorem ipsum"
+            ]
+        }
+    ],
+
+    "skills": [
+        "Sed++", 
+        "Potenti"
+    ]
+}
